@@ -129,7 +129,7 @@
       questions.length
     }</span></p>
     <p>Pontos: <span id="score">${score}</span></p>
-    <p>Time: <span id="timer">00:00</span></p>
+    <p>Tempo: <span id="timer">00:00</span></p>
     </div>
     <section id="answers"></section>`;
 
