@@ -28,27 +28,7 @@
       correctAnswer: 1
     },
     {
-      question: "'Fazer gargarejo com água morna, sal e vinagre previne a infecção'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 2
-    },
-    {
-      question: "'Gatos também podem ser infectados pelo Novo Coronavírus'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 1
-    },
-    {
       question: "'Usando máscara não é possível ser infectado'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 2
-    },
-    {
-      question: "'A COVID-19 é perigosa para vários grupos, dentre eles indivíduos acima dos 60 anos ou debilitados e portadores de doenças crônicas'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 1
-    },
-    {
-      question: "'O novo coronavírus não afeta crianças'",
       answers: ["Verdade", "Mentira"],
       correctAnswer: 2
     },
@@ -58,17 +38,7 @@
       correctAnswer: 2
     },
     {
-      question: "'É melhor evitar ir ao hospital, mesmo que pra controlar doenças crônicas, e diminuir as chances de exposição ao vírus'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 2
-    },
-    {
       question: "'Pacientes cardiopatas possuem o maior risco de morte em casos graves do Novo Coronavírus'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 1
-    },
-    {
-      question: "'A vacina da gripe não protege contra a COVID-19'",
       answers: ["Verdade", "Mentira"],
       correctAnswer: 1
     },
@@ -78,19 +48,9 @@
       correctAnswer: 1
     },
     {
-      question: "'A COVID-19 não deixa sequelas'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 2
-    },
-    {
       question: "'Luvas são uma ótima ideia para prevenir a doença'",
       answers: ["Verdade", "Mentira"],
       correctAnswer: 2
-    },
-    {
-      question: "'Se minha máscara ficar molhada, devo trocá-la o quanto antes'",
-      answers: ["Verdade", "Mentira"],
-      correctAnswer: 1
     },
     {
       question: "'Chá de boldo e caldo de cana curam COVID-19'",
